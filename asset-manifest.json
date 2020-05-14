@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/notipy_deploy/static/css/main.052f1ff5.chunk.css",
+    "main.js": "/notipy_deploy/static/js/main.1933a878.chunk.js",
+    "main.js.map": "/notipy_deploy/static/js/main.1933a878.chunk.js.map",
+    "runtime-main.js": "/notipy_deploy/static/js/runtime-main.120c3067.js",
+    "runtime-main.js.map": "/notipy_deploy/static/js/runtime-main.120c3067.js.map",
+    "static/js/2.b4b80e70.chunk.js": "/notipy_deploy/static/js/2.b4b80e70.chunk.js",
+    "static/js/2.b4b80e70.chunk.js.map": "/notipy_deploy/static/js/2.b4b80e70.chunk.js.map",
+    "index.html": "/notipy_deploy/index.html",
+    "precache-manifest.a5a044991d1601f64db6fc3323b671d2.js": "/notipy_deploy/precache-manifest.a5a044991d1601f64db6fc3323b671d2.js",
+    "service-worker.js": "/notipy_deploy/service-worker.js",
+    "static/css/main.052f1ff5.chunk.css.map": "/notipy_deploy/static/css/main.052f1ff5.chunk.css.map",
+    "static/js/2.b4b80e70.chunk.js.LICENSE.txt": "/notipy_deploy/static/js/2.b4b80e70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.120c3067.js",
+    "static/js/2.b4b80e70.chunk.js",
+    "static/css/main.052f1ff5.chunk.css",
+    "static/js/main.1933a878.chunk.js"
+  ]
+}
